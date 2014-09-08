@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cu3ox>
+<Settings>
+  <imageWidth>530</imageWidth>
+  <imageHeight>280</imageHeight>
+  <segments>8</segments>
+  <tweenTime>1.2</tweenTime>
+  <tweenDelay>0.1</tweenDelay>
+  <tweenType>easeInOutBack</tweenType>
+  <zDistance>0</zDistance>
+  <expand>20</expand>
+  <innerColor>0x111111</innerColor>
+  <textBackground>0x333333</textBackground>
+  <startBackground>0xcccccc</startBackground>
+  <noLogo>0</noLogo>
+  <shadowDarkness>100</shadowDarkness>
+  <textDistance>3</textDistance>
+  <autoplay>3</autoplay>
+  <rDirection>down</rDirection>
+  <borderRadius>16</borderRadius>
+  <descriptionWidth>500</descriptionWidth>
+  <descriptionHeight>60</descriptionHeight>
+  <descriptionOffset>210</descriptionOffset>
+  <descriptionType>upDown</descriptionType>
+  <logoText>cu3ox.com</logoText>
+  <logoLink>http://cu3ox.com</logoLink>
+  <noShadow>1</noShadow>
+  <showControls>true</showControls>
+  <startLogo></startLogo>
+  <loop>1</loop>
+  <sound></sound>
+</Settings>
+<Image Filename="volvo_bus_india.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="volvob9rbus.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>67</segments>
+</Settings>
+</Image>
+<Image Filename="63023d45ec454119afe4cdcdd150697e.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="1368365058_495483094_5volvob7rmark3busforsalevehicles.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="4073158887_4b3094dd48.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="avn7_bus_16247g.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="bus.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="busphotosdotcom.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="mercedesbenzbus.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="tatacnghybridbus.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+<Image Filename="volvo.jpg">
+<Settings>
+<goLink></goLink>
+<rDirection>down</rDirection>
+<segments>8</segments>
+</Settings>
+</Image>
+</Cu3ox>
